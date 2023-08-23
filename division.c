@@ -2,10 +2,10 @@
 #include<stdio.h>
 
 void main(){
-int a,b;
+float a,b;
 printf("enter the first value");
-scanf("%d",&a);
+scanf("%f",&a);
 printf("enter the second value");
-scanf("%d",&b);
-printf("the division of %d and %d is %d ",a,b,a/b);
+scanf("%f",&b);
+printf("the division of %f and %f is %f ",a,b,a/b);
 }
