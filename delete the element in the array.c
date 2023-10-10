@@ -29,3 +29,5 @@ for(i=0;i<n;i++)
 }
 else
 printf("array underflow");
+return 0;
+}
